@@ -43,7 +43,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Guilherme-148-Af/Guilherme-148-Af/output/snake.svg" alt="Snake animation" />
-
-###
