@@ -41,15 +41,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Guilherme-148-Af/Guilherme-148-Af/main/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
-###
-
-- nome: gerar-jogo-de-cobra-a-partir-da-grade-de-contribuição-do-github
-  usos: Platane/snk@v3.2.0
-
 ###
 
 <div align="center">
