@@ -39,8 +39,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Guilherme-148-Af/Guilherme-148-Af/output/snake.svg" alt="Snake animation" />
-
+              - nome: gerar-jogo-de-cobra-a-partir-da-grade-de-contribuição-do-github
+                usos: Platane/snk@v3.2.0
+            
 ###
 
 <div align="center">
