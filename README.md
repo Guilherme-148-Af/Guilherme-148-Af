@@ -37,8 +37,6 @@
 
 ###
 
-<br clear="both">
-
               - nome: gerar-jogo-de-cobra-a-partir-da-grade-de-contribuição-do-github
                 usos: Platane/snk@v3.2.0
             
